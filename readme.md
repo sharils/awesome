@@ -7,6 +7,7 @@
 
 - [Generator](#generator)
 - [Markdown](#markdown)
+- [SSH](#ssh)
 - [TypeScript](#typescript)
   - [TypeScript React](#typescript-react)
 
@@ -19,6 +20,11 @@
 ## Markdown
 
 - [How to write one new line in Bitbucket markdown?](https://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdown "How to write one new line in Bitbucket markdown?") - Add 2 trailing whitespaces to add a newline.
+
+
+## SSH
+
+- [What can I do when my SSH session is stuck?](https://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck "What can I do when my SSH session is stuck? - Ask Different") - Type `ENTER`, `~`, `.` to terminate a stuck connection.
 
 
 ## TypeScript
