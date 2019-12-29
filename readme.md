@@ -6,6 +6,7 @@
 ## Contents
 
 - [Generator](#generator)
+- [Markdown](#markdown)
 - [TypeScript](#typescript)
   - [TypeScript React](#typescript-react)
 
@@ -13,6 +14,11 @@
 ## Generator
 
 - [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list "GitHub - dar5hak/generator-awesome-list: Yeoman generator for GitHub awesome lists") - This list uses `npx --package yo --package generator-awesome-list yo awesome-list` to generate the boilerplate.
+
+
+## Markdown
+
+- [How to write one new line in Bitbucket markdown?](https://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdown "How to write one new line in Bitbucket markdown?") - Add 2 trailing whitespaces to add a newline.
 
 
 ## TypeScript
