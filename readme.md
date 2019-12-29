@@ -6,6 +6,8 @@
 ## Contents
 
 - [Android](#android)
+- [Backend Development](#backend-development)
+  - [Backend Development Timely](#backend-development-timely)
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
@@ -19,6 +21,17 @@
 ## Android
 
 - [KPlaySearch](https://playsearch.kaki87.net/ "KPlaySearch | Advanced Google Play search") - Search APP without ADs.
+
+
+## Backend Development
+
+- [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/ "Command line integration with Newman | Postman Learning Center") - Run exported postman files from CLI, best used when you are debugging or when your API isn't clearly defined yet.
+- [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
+- [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - 
+
+### Backend Development Timely
+
+- [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
 
 
 ## FP
