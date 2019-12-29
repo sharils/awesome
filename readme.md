@@ -9,6 +9,7 @@
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
+- [Learning](#learning)
 - [Markdown](#markdown)
 - [SSH](#ssh)
 - [TypeScript](#typescript)
@@ -31,6 +32,11 @@
 ## Generator
 
 - [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list "GitHub - dar5hak/generator-awesome-list: Yeoman generator for GitHub awesome lists") - This list uses `npx --package yo --package generator-awesome-list yo awesome-list` to generate the boilerplate.
+
+
+## Learning
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn "Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera") - Learn how to learn based on neuroscience.
+- [Mastering Linear Algebra in 10 Days](https://www.calnewport.com/blog/2012/10/26/mastering-linear-algebra-in-10-days-astounding-experiments-in-ultra-learning/ "Mastering Linear Algebra in 10 Days: Astounding Experiments in Ultra-Learning - Study Hacks - Cal Newport") - Learn how to grow insight from Scott Young.
 
 
 ## Markdown
