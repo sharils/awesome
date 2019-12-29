@@ -8,6 +8,7 @@
 - [Android](#android)
 - [Backend Development](#backend-development)
   - [Backend Development Timely](#backend-development-timely)
+- [Design System](#design-system)
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
@@ -32,6 +33,11 @@
 ### Backend Development Timely
 
 - [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
+
+
+## Design System
+
+- [Design System](https://drive.google.com/file/d/1atuAFy3nz24bW7iw-qpZ8fN3ahytUXAv/edit?fbclid=IwAR0z0FHrfmZPHXTpFaqv-qUMWb9qqVM8WMV6yI9qtKhxp743_tMGeUMJR3U "design_system_20191221_jigsawye.pdf - Google Drive") - Introduction to Design System in *Chinese*.
 
 
 ## FP
