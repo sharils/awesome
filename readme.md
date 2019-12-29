@@ -5,16 +5,13 @@
 
 ## Contents
 
-- [Section](#section)
+- [Generator](#generator)
 - [Another Section](#another-section)
 
 
-## Section
+## Generator
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list "GitHub - dar5hak/generator-awesome-list: Yeoman generator for GitHub awesome lists") - This list uses `npx --package yo --package generator-awesome-list yo awesome-list` to generate the boilerplate.
 
 
 ## Another Section
