@@ -6,6 +6,8 @@
 ## Contents
 
 - [Android](#android)
+- [FP](#fp)
+  - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
 - [Markdown](#markdown)
 - [SSH](#ssh)
@@ -16,6 +18,14 @@
 ## Android
 
 - [KPlaySearch](https://playsearch.kaki87.net/ "KPlaySearch | Advanced Google Play search") - Search APP without ADs.
+
+
+## FP
+
+### FP Lodash
+
+- [Official FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide "FP Guide · lodash/lodash Wiki · GitHub") - Complete list of functions e.g. `compose`, `getOr`.
+- [Generated docs for Lodash/fp](https://gist.github.com/jfmengels/6b973b69c491375117dc "Generated docs for Lodash/fp. Help make them better at https://github.com/jfmengels/lodash-fp-docs · GitHub") - Help you avoid doing function signature mapping in your mind, however, some functions are not listed, e.g. `compose`, `getOr`.
 
 
 ## Generator
