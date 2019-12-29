@@ -47,6 +47,7 @@
 
 ## SSH
 
+- [How to use KeePassXC with ssh-agent to secure private key access](https://blog.valouille.fr/post/2018-03-27-how-to-use-keepass-xc-with-ssh-agent/ "How to use KeePassXC with ssh-agent to secure private key access - VaLouille") - Let KeePassXC manage your ssh keys.
 - [What can I do when my SSH session is stuck?](https://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck "What can I do when my SSH session is stuck? - Ask Different") - Type `ENTER`, `~`, `.` to terminate a stuck connection.
 
 
