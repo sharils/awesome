@@ -5,11 +5,17 @@
 
 ## Contents
 
+- [Android](#android)
 - [Generator](#generator)
 - [Markdown](#markdown)
 - [SSH](#ssh)
 - [TypeScript](#typescript)
   - [TypeScript React](#typescript-react)
+
+
+## Android
+
+- [KPlaySearch](https://playsearch.kaki87.net/ "KPlaySearch | Advanced Google Play search") - Search APP without ADs.
 
 
 ## Generator
