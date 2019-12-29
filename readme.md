@@ -6,7 +6,8 @@
 ## Contents
 
 - [Generator](#generator)
-- [Another Section](#another-section)
+- [TypeScript](#typescript)
+  - [TypeScript React](#typescript-react)
 
 
 ## Generator
@@ -14,12 +15,11 @@
 - [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list "GitHub - dar5hak/generator-awesome-list: Yeoman generator for GitHub awesome lists") - This list uses `npx --package yo --package generator-awesome-list yo awesome-list` to generate the boilerplate.
 
 
-## Another Section
+## TypeScript
 
-### Subsection
+### TypeScript React
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [TypeScript and React by Stefan Baumgartner](https://fettblog.eu/typescript-react/ "TypeScript and React") - Starting annotating your hooks, even handlers, etc in TypeScript in 30 minutes.
 
 
 ## Contribute
