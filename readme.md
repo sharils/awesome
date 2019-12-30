@@ -17,6 +17,7 @@
 - [MacOS](#macos)
 - [Markdown](#markdown)
 - [SSH](#ssh)
+- [Software Engineering](#software-engineering)
 - [TypeScript](#typescript)
   - [TypeScript React](#typescript-react)
 
@@ -82,6 +83,13 @@
 
 - [How to use KeePassXC with ssh-agent to secure private key access](https://blog.valouille.fr/post/2018-03-27-how-to-use-keepass-xc-with-ssh-agent/ "How to use KeePassXC with ssh-agent to secure private key access - VaLouille") - Let KeePassXC manage your ssh keys.
 - [What can I do when my SSH session is stuck?](https://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck "What can I do when my SSH session is stuck? - Ask Different") - Type `ENTER`, `~`, `.` to terminate a stuck connection.
+
+
+## Software Engineering
+
+- [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/ "Introduction · 97 Things Every Programmer Should Know") - Learn how to write good program from giants.
+- [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/ "Manifesto for Software Craftsmanship") - Toward a higher goal.
+- [SE Radio](https://www.se-radio.net/ "Software Engineering Radio") - This podcast has been around for more than 10 years by the IEEE Computer Society.
 
 
 ## TypeScript
