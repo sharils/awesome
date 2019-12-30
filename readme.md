@@ -12,6 +12,7 @@
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
+- [Git](#git)
 - [Learning](#learning)
 - [MacOS](#macos)
 - [Markdown](#markdown)
@@ -52,6 +53,13 @@
 ## Generator
 
 - [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list "GitHub - dar5hak/generator-awesome-list: Yeoman generator for GitHub awesome lists") - This list uses `npx --package yo --package generator-awesome-list yo awesome-list` to generate the boilerplate.
+
+
+## Git
+
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/ "A successful Git branching model » nvie.com") - Most adopted industrial git workflow. Don't confuse this with the *gitworkflows* comes with git. When people talk about git flow, it's usually this one.
+- [Git - gitworkflows Documentation](https://git-scm.com/docs/gitworkflows "Git - gitworkflows Documentation") - See how git itself uses git, you can also type `man gitworkflows`. BTW the *SEPARATE CHANGES* is worth reading regardless of which work flow you adopt.
+- [The gitworkflows(7) illustrated](https://www.slideshare.net/ktateish/the-gitworkflows7-illustrated "The gitworkflows(7) illustrated") - Explain the workflow git itself uses with illustration
 
 
 ## Learning
