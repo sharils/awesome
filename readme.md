@@ -119,6 +119,7 @@ CBT stands for Cognitive Behavioural Therapy.
 ## Time Management
 
 - [How To Multiply Your Time](https://www.youtube.com/watch?v=y2X7c9TUQJ8&feature=youtu.be "How To Multiply Your Time | Rory Vaden | TEDxDouglasville - YouTube") - Learn why you whould eliminate, automate and delegate tasks.
+- [The Pomodoro Technique](https://lasolutionestenvous.com/wp-content/uploads/2014/04/ThePomodoroTechnique_v1-3.pdf "Microsoft Word - ThePomodoroTechnique_v1-3.doc - ThePomodoroTechnique_v1-3.pdf") - This helps you become more focused and be aware that you are stuck.
 
 
 ## TypeScript
