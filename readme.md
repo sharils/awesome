@@ -20,6 +20,7 @@
 - [MacOS](#macos)
 - [Markdown](#markdown)
 - [Psychology](#psychology)
+- [Quote](#quote)
 - [Security](#security)
 - [SSH](#ssh)
 - [Software Engineering](#software-engineering)
@@ -104,6 +105,11 @@ CBT stands for Cognitive Behavioural Therapy.
 - [Feeling good](https://www.youtube.com/watch?v=H1T5uMeYv9Q "Feeling good | David Burns | TEDxReno - YouTube") - A 18 minutes TED talk about CBT.
 - [Woebot](https://woebot.io/ "Home | Woebot - Your charming robot friend who is here for you, 24/7") - A chatbot implementation of CBT.
 - [心理學觀點的「幸運關鍵」](https://www.youtube.com/watch?v=_ZiEoH_Z5qk&feature=emb_title "心理學觀點的「幸運關鍵」：劉軒(Xuan Liu) at TEDxTaipei 2014 - YouTube") - A 20 minutes TED talk about self efficacy in Chinese.
+
+
+## Quote
+
+- [Man is born free; and everywhere he is in chains.](https://en.wikiquote.org/wiki/The_Social_Contract "The Social Contract - Wikiquote") - There is a sentence after "Man is born free".
 
 
 ## Security
