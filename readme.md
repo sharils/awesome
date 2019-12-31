@@ -17,6 +17,7 @@
 - [Learning](#learning)
 - [MacOS](#macos)
 - [Markdown](#markdown)
+- [Security](#security)
 - [SSH](#ssh)
 - [Software Engineering](#software-engineering)
 - [TypeScript](#typescript)
@@ -36,12 +37,6 @@
 ## Backend Development
 
 - [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/ "Command line integration with Newman | Postman Learning Center") - Run exported postman files from CLI, best used when you are debugging or when your API isn't clearly defined yet.
-- [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
-- [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - 
-
-### Backend Development Timely
-
-- [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
 
 
 ## Design System
@@ -83,6 +78,15 @@
 
 - [Grip](https://github.com/joeyespo/grip "GitHub - joeyespo/grip: Preview GitHub Markdown files like Readme locally before committing them.") - Preview markdown at http://localhost:6419/.
 - [How to write one new line in Bitbucket markdown?](https://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdown "How to write one new line in Bitbucket markdown?") - Add 2 trailing whitespaces to add a newline.
+
+
+## Security
+
+- [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
+- [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
+- [Password Strength](https://xkcd.com/936/ "xkcd: Password Strength") - Start using [diceware](https://en.wikipedia.org/wiki/Diceware "Diceware - Wikipedia") now!
+- [Security Now! Podcast](https://www.grc.com/SecurityNow.htm "GRC | Security Now! Episode Archive") - This podcast has been around for more than 10 years. Many early episodes are still relevant today.
+- [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
 
 
 ## SSH
