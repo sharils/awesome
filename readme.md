@@ -11,6 +11,7 @@
   - [Backend Development Timely](#backend-development-timely)
 - [Career](#career)
 - [Design System](#design-system)
+- [English](#english)
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
@@ -50,6 +51,11 @@
 ## Design System
 
 - [Design System](https://drive.google.com/file/d/1atuAFy3nz24bW7iw-qpZ8fN3ahytUXAv/edit?fbclid=IwAR0z0FHrfmZPHXTpFaqv-qUMWb9qqVM8WMV6yI9qtKhxp743_tMGeUMJR3U "design_system_20191221_jigsawye.pdf - Google Drive") - Introduction to Design System in *Chinese*.
+
+
+## English
+
+- [How to Pronounce CAN and CAN'T in BRITISH ENGLISH](https://youtu.be/IzjX0ghVSgg?t=76 "How to Pronounce CAN and CAN'T in BRITISH ENGLISH - YouTube") - Can and Can’t are different in British English.
 
 
 ## FP
