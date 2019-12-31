@@ -17,6 +17,7 @@
 - [Learning](#learning)
 - [MacOS](#macos)
 - [Markdown](#markdown)
+- [Psychology](#psychology)
 - [Security](#security)
 - [SSH](#ssh)
 - [Software Engineering](#software-engineering)
@@ -78,6 +79,15 @@
 
 - [Grip](https://github.com/joeyespo/grip "GitHub - joeyespo/grip: Preview GitHub Markdown files like Readme locally before committing them.") - Preview markdown at [localhost:6419](http://localhost:6419/).
 - [How to write one new line in Bitbucket markdown?](https://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdown "How to write one new line in Bitbucket markdown?") - Add 2 trailing whitespaces to add a newline.
+
+
+## Psychology
+
+CBT stands for Cognitive Behavioural Therapy.
+
+- [Feeling good](https://www.youtube.com/watch?v=H1T5uMeYv9Q "Feeling good | David Burns | TEDxReno - YouTube") - A 18 minutes TED talk about CBT.
+- [Woebot](https://woebot.io/ "Home | Woebot - Your charming robot friend who is here for you, 24/7") - A chatbot implementation of CBT.
+- [心理學觀點的「幸運關鍵」](https://www.youtube.com/watch?v=_ZiEoH_Z5qk&feature=emb_title "心理學觀點的「幸運關鍵」：劉軒(Xuan Liu) at TEDxTaipei 2014 - YouTube") - A 20 minutes TED talk about self efficacy in Chinese.
 
 
 ## Security
