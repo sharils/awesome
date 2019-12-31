@@ -21,6 +21,7 @@
 - [Security](#security)
 - [SSH](#ssh)
 - [Software Engineering](#software-engineering)
+- [Time Management](#time-management)
 - [TypeScript](#typescript)
   - [TypeScript React](#typescript-react)
 
@@ -113,6 +114,11 @@ CBT stands for Cognitive Behavioural Therapy.
 - [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/ "Introduction · 97 Things Every Programmer Should Know") - Learn how to write good program from giants.
 - [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/ "Manifesto for Software Craftsmanship") - Toward a higher goal.
 - [SE Radio](https://www.se-radio.net/ "Software Engineering Radio") - This podcast has been around for more than 10 years by the IEEE Computer Society.
+
+
+## Time Management
+
+- [How To Multiply Your Time](https://www.youtube.com/watch?v=y2X7c9TUQJ8&feature=youtu.be "How To Multiply Your Time | Rory Vaden | TEDxDouglasville - YouTube") - Learn why you whould eliminate, automate and delegate tasks.
 
 
 ## TypeScript
