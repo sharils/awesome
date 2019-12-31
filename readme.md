@@ -9,6 +9,7 @@
 - [Android](#android)
 - [Backend Development](#backend-development)
   - [Backend Development Timely](#backend-development-timely)
+- [Career](#career)
 - [Design System](#design-system)
 - [FP](#fp)
   - [FP Lodash](#fp-lodash)
@@ -39,6 +40,11 @@
 ## Backend Development
 
 - [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/ "Command line integration with Newman | Postman Learning Center") - Run exported postman files from CLI, best used when you are debugging or when your API isn't clearly defined yet.
+
+
+## Career
+
+- [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start "A Career Cold Start Algorithm") - Steps to help you find out how you can be helpful in a new company in 30 minutes.
 
 
 ## Design System
