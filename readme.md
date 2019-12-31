@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Agile](#agile)
 - [Android](#android)
 - [Backend Development](#backend-development)
   - [Backend Development Timely](#backend-development-timely)
@@ -20,6 +21,11 @@
 - [Software Engineering](#software-engineering)
 - [TypeScript](#typescript)
   - [TypeScript React](#typescript-react)
+
+
+## Agile
+
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/ "Manifesto for Agile Software Development") - Always refer to this manifesto when you are lost.
 
 
 ## Android
