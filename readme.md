@@ -37,6 +37,7 @@
 
 ## Android
 
+- [Android Unlock Pattern Generator](https://www.berkeleychurchill.com/software/android-pwgen/pwgen.html "Berkeley Churchill - Android Unlock Pattern Generator") - Use unique patterns for different device or app.
 - [KPlaySearch](https://playsearch.kaki87.net/ "KPlaySearch | Advanced Google Play search") - Search APP without ADs.
 
 
