@@ -139,6 +139,7 @@ CBT stands for Cognitive Behavioural Therapy.
 - [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
 - [Password Strength](https://xkcd.com/936/ "xkcd: Password Strength") - Start using [diceware](https://en.wikipedia.org/wiki/Diceware "Diceware - Wikipedia") now!
 - [Security Now! Podcast](https://www.grc.com/SecurityNow.htm "GRC | Security Now! Episode Archive") - This podcast has been around for more than 10 years. Many early episodes are still relevant today.
+- [Time-based One-time Password algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm "Time-based One-time Password algorithm - Wikipedia") - This is the fundation of modern 2FA.
 - [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
 
 
