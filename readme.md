@@ -31,6 +31,7 @@
 
 ## Agile
 
+- [Burn down chart](https://en.wikipedia.org/wiki/Burn_down_chart "Burn down chart - Wikipedia") - Useful for predicting when all of the work will be completed.
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/ "Manifesto for Agile Software Development") - Always refer to this manifesto when you are lost.
 
 
