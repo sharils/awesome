@@ -63,7 +63,7 @@
 
 ## English
 
-- [How to Pronounce CAN and CAN'T in BRITISH ENGLISH](https://youtu.be/IzjX0ghVSgg?t=76 "How to Pronounce CAN and CAN'T in BRITISH ENGLISH - YouTube") - Can and Can’t are different in British English.
+- [8 Tips for British English Pronunciation](https://www.youtube.com/watch?v=T7SWETadMn0&t=52s "8 Tips for British English Pronunciation - YouTube") - Can and can't are easily distinguishable in British English
 
 
 ## Esperanto
