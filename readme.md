@@ -27,6 +27,7 @@
 - [Software Engineering](#software-engineering)
 - [Time Management](#time-management)
 - [TypeScript](#typescript)
+- [Web](#web)
 
 
 ## Agile
@@ -161,6 +162,11 @@ CBT stands for Cognitive Behavioural Therapy.
 ## TypeScript
 
 - [TypeScript and React by Stefan Baumgartner](https://fettblog.eu/typescript-react/ "TypeScript and React") - Starting annotating your hooks, even handlers, etc in TypeScript in 30 minutes.
+
+
+## Web
+
+- [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/ "Understanding JSON Schema — Understanding JSON Schema 7.0 documentation")
 
 
 ## Contribute
