@@ -103,6 +103,10 @@
 
 - [Apostrophes and quotation marks](https://www.presentationzen.com/presentationzen/2009/08/apostrophes-and-quotation-marks.html "Presentation Zen: Apostrophes and quotation marks") - Type `⌥` + `⇧` + `]` for `’` to avoid escaping `'` (also using punctuation correctly).
 - [Install a specific version of a formula with homebrew](https://zoltanaltfatter.com/2017/09/07/Install-a-specific-version-of-formula-with-homebrew/ "Install a specific version of a formula with homebrew – Zoltan Altfatter – Software Engineer") - Use different versions of Elixir, Erlang, Lua, with just homebrew!
+- Hold `⌥` then double tap on the trackpad and start dragging to select word by word
+- Triple tap on the trackpad and start dragging to select line by line
+- Hold `⌘` and `⇧` then double tap to select a file path in the Terminal app
+- Hold `⌘` then tap to open a URL in the Terminal app; also hold `fn` when mouse reporting is turned on.
 
 
 ## Markdown
