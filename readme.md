@@ -8,7 +8,6 @@
 - [Agile](#agile)
 - [Android](#android)
 - [Backend Development](#backend-development)
-  - [Backend Development Timely](#backend-development-timely)
 - [Calendar](#calendar)
 - [Career](#career)
 - [Design System](#design-system)
