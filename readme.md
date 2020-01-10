@@ -22,8 +22,8 @@
 - [Markdown](#markdown)
 - [Psychology](#psychology)
 - [Quote](#quote)
-- [Security](#security)
 - [SSH](#ssh)
+- [Security](#security)
 - [Software Engineering](#software-engineering)
 - [Time Management](#time-management)
 - [TypeScript](#typescript)
@@ -119,6 +119,12 @@ CBT stands for Cognitive Behavioural Therapy.
 - [Man is born free; and everywhere he is in chains.](https://en.wikiquote.org/wiki/The_Social_Contract "The Social Contract - Wikiquote") - There is a sentence after "Man is born free".
 
 
+## SSH
+
+- [How to use KeePassXC with ssh-agent to secure private key access](https://blog.valouille.fr/post/2018-03-27-how-to-use-keepass-xc-with-ssh-agent/ "How to use KeePassXC with ssh-agent to secure private key access - VaLouille") - Let KeePassXC manage your ssh keys.
+- [What can I do when my SSH session is stuck?](https://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck "What can I do when my SSH session is stuck? - Ask Different") - Type `ENTER`, `~`, `.` to terminate a stuck connection.
+
+
 ## Security
 
 - [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
@@ -126,12 +132,6 @@ CBT stands for Cognitive Behavioural Therapy.
 - [Password Strength](https://xkcd.com/936/ "xkcd: Password Strength") - Start using [diceware](https://en.wikipedia.org/wiki/Diceware "Diceware - Wikipedia") now!
 - [Security Now! Podcast](https://www.grc.com/SecurityNow.htm "GRC | Security Now! Episode Archive") - This podcast has been around for more than 10 years. Many early episodes are still relevant today.
 - [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
-
-
-## SSH
-
-- [How to use KeePassXC with ssh-agent to secure private key access](https://blog.valouille.fr/post/2018-03-27-how-to-use-keepass-xc-with-ssh-agent/ "How to use KeePassXC with ssh-agent to secure private key access - VaLouille") - Let KeePassXC manage your ssh keys.
-- [What can I do when my SSH session is stuck?](https://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck "What can I do when my SSH session is stuck? - Ask Different") - Type `ENTER`, `~`, `.` to terminate a stuck connection.
 
 
 ## Software Engineering
