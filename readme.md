@@ -13,7 +13,6 @@
 - [Design System](#design-system)
 - [English](#english)
 - [FP](#fp)
-  - [FP Lodash](#fp-lodash)
 - [Generator](#generator)
 - [Git](#git)
 - [Learning](#learning)
@@ -26,7 +25,6 @@
 - [Software Engineering](#software-engineering)
 - [Time Management](#time-management)
 - [TypeScript](#typescript)
-  - [TypeScript React](#typescript-react)
 
 
 ## Agile
@@ -66,8 +64,6 @@
 
 
 ## FP
-
-### FP Lodash
 
 - [Official FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide "FP Guide · lodash/lodash Wiki · GitHub") - Complete list of functions e.g. `compose`, `getOr`.
 - [Generated docs for Lodash/fp](https://gist.github.com/jfmengels/6b973b69c491375117dc "Generated docs for Lodash/fp. Help make them better at https://github.com/jfmengels/lodash-fp-docs · GitHub") - Help you avoid doing function signature mapping in your mind, however, some functions are not listed, e.g. `compose`, `getOr`.
@@ -147,8 +143,6 @@ CBT stands for Cognitive Behavioural Therapy.
 
 
 ## TypeScript
-
-### TypeScript React
 
 - [TypeScript and React by Stefan Baumgartner](https://fettblog.eu/typescript-react/ "TypeScript and React") - Starting annotating your hooks, even handlers, etc in TypeScript in 30 minutes.
 
