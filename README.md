@@ -122,6 +122,7 @@ CBT stands for Cognitive Behavioural Therapy.
 
 ## Security
 
+- [Import/Export GPG key pair](https://www.debuntu.org/how-to-importexport-gpg-key-pair/ "How-To: Import/Export GPG key pair - Debuntu") - Definitive guide for backing up GPG key pair by key id.
 - [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
 - [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
 - [Password Strength](https://xkcd.com/936/ "xkcd: Password Strength") - Start using [diceware](https://en.wikipedia.org/wiki/Diceware "Diceware - Wikipedia") now!
