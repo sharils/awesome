@@ -98,6 +98,7 @@
 - Triple tap on the trackpad and start dragging to select line by line
 - Hold `⌘` and `⇧` then double tap to select a file path in the Terminal app
 - Hold `⌘` then tap to open a URL in the Terminal app; also hold `fn` when mouse reporting is turned on.
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps "GitHub - serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.") - Open source MacOS apps.
 
 ## Markdown
 
