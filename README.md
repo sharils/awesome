@@ -13,6 +13,7 @@
 - [English](#english)
 - [Esperanto](#esperanto)
 - [FP](#fp)
+- [File Sharing](#file-sharing)
 - [Generator](#generator)
 - [Git](#git)
 - [Learning](#learning)
@@ -68,6 +69,12 @@
 
 - [Official FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide "FP Guide · lodash/lodash Wiki · GitHub") - Complete list of functions e.g. `compose`, `getOr`.
 - [Generated docs for Lodash/fp](https://gist.github.com/jfmengels/6b973b69c491375117dc "Generated docs for Lodash/fp. Help make them better at https://github.com/jfmengels/lodash-fp-docs · GitHub") - Help you avoid doing function signature mapping in your mind, however, some functions are not listed, e.g. `compose`, `getOr`.
+
+## File Sharing
+
+- [FileRoom](https://fileroom.io/137FM "FileRoom | Browser File Transfer") - Share file and message.
+- [ShareDrop](https://www.sharedrop.io/ "ShareDrop") - Share file to other client over LAN.
+- [Syncthing](https://syncthing.net/ "Syncthing") - Sync folders automatically over LAN.
 
 ## Generator
 
