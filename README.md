@@ -16,6 +16,7 @@
 - [File Sharing](#file-sharing)
 - [Generator](#generator)
 - [Git](#git)
+- [JavaScript](#javascript)
 - [Learning](#learning)
 - [Life](#life)
 - [MacOS](#macos)
@@ -85,6 +86,10 @@
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/ "A successful Git branching model » nvie.com") - Most adopted industrial git workflow. Don't confuse this with the _gitworkflows_ comes with git. When people talk about git flow, it's usually this one.
 - [Git - gitworkflows Documentation](https://git-scm.com/docs/gitworkflows "Git - gitworkflows Documentation") - See how git itself uses git, you can also type `man gitworkflows`. BTW the _SEPARATE CHANGES_ is worth reading regardless of which work flow you adopt.
 - [The gitworkflows(7) illustrated](https://www.slideshare.net/ktateish/the-gitworkflows7-illustrated "The gitworkflows(7) illustrated") - Explain the workflow git itself uses with illustration.
+
+## JavaScript
+
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript") - Introduction to writing clean code in JavaScript.
 
 ## Learning
 
