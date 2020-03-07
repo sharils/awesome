@@ -106,6 +106,7 @@
 
 - [Apostrophes and quotation marks](https://www.presentationzen.com/presentationzen/2009/08/apostrophes-and-quotation-marks.html "Presentation Zen: Apostrophes and quotation marks") - Type `⌥` + `⇧` + `]` for `’` to avoid escaping `'` (also using punctuation correctly).
 - [Install a specific version of a formula with homebrew](https://zoltanaltfatter.com/2017/09/07/Install-a-specific-version-of-formula-with-homebrew/ "Install a specific version of a formula with homebrew – Zoltan Altfatter – Software Engineer") - Use different versions of Elixir, Erlang, Lua, with just homebrew!
+- [Is there a sort option for Launchpad?](https://discussions.apple.com/thread/250180547 "Is there a sort option for Launchpad? - Apple Community") - Run `defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock` to sort built-in apps in LaunchPad.
 - Hold `⌥` then double tap on the trackpad and start dragging to select word by word
 - Triple tap on the trackpad and start dragging to select line by line
 - Hold `⌘` and `⇧` then double tap to select a file path in the Terminal app
