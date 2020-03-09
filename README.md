@@ -45,6 +45,7 @@
 
 1. [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection-runs/command-line-integration-with-newman/ "Command line integration with Newman | Postman Learning Center") - Run exported postman files from CLI, best used when you are debugging or when your API isn't clearly defined yet.
 1. [My Favorite Database is the Network](https://lucumr.pocoo.org/2013/11/17/my-favorite-database/ "My Favorite Database is the Network | Armin Ronacher's Thoughts and Writings")
+1. [The Twelve-Factor App](https://12factor.net/ "The Twelve-Factor App") - Factors for a scalable and maintainable app.
 
 ## Calendar
 
