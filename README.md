@@ -85,6 +85,7 @@
 ## Git
 
 1. [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/ "A successful Git branching model » nvie.com") - Most adopted industrial git workflow. Don't confuse this with the _gitworkflows_ comes with git. When people talk about git flow, it's usually this one.
+1. [Git - git-cherry Documentation](https://git-scm.com/docs/git-cherry#_concrete_example "Git - git-cherry Documentation") - Use `git cherry` to know what commits on a branch exists on another branch.
 1. [Git - gitworkflows Documentation](https://git-scm.com/docs/gitworkflows "Git - gitworkflows Documentation") - See how git itself uses git, you can also type `man gitworkflows`. BTW the _SEPARATE CHANGES_ is worth reading regardless of which work flow you adopt.
 1. [The gitworkflows(7) illustrated](https://www.slideshare.net/ktateish/the-gitworkflows7-illustrated "The gitworkflows(7) illustrated") - Explain the workflow git itself uses with illustration.
 
