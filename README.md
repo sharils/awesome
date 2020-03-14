@@ -23,6 +23,7 @@
 1. [Markdown](#markdown)
 1. [News](#news)
 1. [Psychology](#psychology)
+1. [Remote Working](#remote-working)
 1. [Quote](#quote)
 1. [SSH](#ssh)
 1. [Security](#security)
@@ -133,6 +134,11 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [Feeling good](https://www.youtube.com/watch?v=H1T5uMeYv9Q "Feeling good | David Burns | TEDxReno - YouTube") - A 18 minutes TED talk about CBT.
 1. [Woebot](https://woebot.io/ "Home | Woebot - Your charming robot friend who is here for you, 24/7") - A chatbot implementation of CBT.
 1. [心理學觀點的「幸運關鍵」](https://www.youtube.com/watch?v=_ZiEoH_Z5qk&feature=emb_title "心理學觀點的「幸運關鍵」：劉軒(Xuan Liu) at TEDxTaipei 2014 - YouTube") - A 20 minutes TED talk about self efficacy in Chinese.
+
+## Remote Working
+
+1. [Doodle](https://doodle.com/en/ "Home | Doodle") - list available times and let attendees vote for which works for them efficiently.
+1. [World Time Buddy](https://www.worldtimebuddy.com/ "Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.") - Find out time at different locations around the world easily without creating an account.
 
 ## Quote
 
