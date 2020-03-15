@@ -136,6 +136,10 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [Woebot](https://woebot.io/ "Home | Woebot - Your charming robot friend who is here for you, 24/7") - A chatbot implementation of CBT.
 1. [心理學觀點的「幸運關鍵」](https://www.youtube.com/watch?v=_ZiEoH_Z5qk&feature=emb_title "心理學觀點的「幸運關鍵」：劉軒(Xuan Liu) at TEDxTaipei 2014 - YouTube") - A 20 minutes TED talk about self efficacy in Chinese.
 
+## QA
+
+1. [BrowserStack](https://www.browserstack.com/ "Most Reliable App & Cross Browser Testing Platform | BrowserStack") - You can still test Firefox and IE after free trial ends.
+
 ## Remote Working
 
 1. [Doodle](https://doodle.com/en/ "Home | Doodle") - list available times and let attendees vote for which works for them efficiently.
