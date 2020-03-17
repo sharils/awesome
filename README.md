@@ -6,6 +6,7 @@
 
 1. [Agile](#agile)
 1. [Android](#android)
+1. [Architecture](#architecture)
 1. [Backend Development](#backend-development)
 1. [Calendar](#calendar)
 1. [Career](#career)
@@ -41,6 +42,10 @@
 
 1. [Android Unlock Pattern Generator](https://www.berkeleychurchill.com/software/android-pwgen/pwgen.html "Berkeley Churchill - Android Unlock Pattern Generator") - Use unique patterns for different device or app.
 1. [KPlaySearch](https://playsearch.kaki87.net/ "KPlaySearch | Advanced Google Play search") - Search APP without ADs.
+
+## Architecture
+
+1. [MVC](http://web.archive.org/web/20121227035937/http://www.jdl.co.uk/briefings/mvc.html "MVC") - Grow insight about MVC as an architecure.
 
 ## Backend Development
 
