@@ -161,6 +161,7 @@ CBT stands for Cognitive Behavioural Therapy.
 
 ## Security
 
+1. [GPG - How to trust an imported key](https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key.html "GPG - How to trust an imported key") - Remember to trust a key after import.
 1. [Import/Export GPG key pair](https://www.debuntu.org/how-to-importexport-gpg-key-pair/ "How-To: Import/Export GPG key pair - Debuntu") - Definitive guide for backing up GPG key pair by key id.
 1. [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
 1. [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
