@@ -69,6 +69,7 @@
 ## English
 
 1. [8 Tips for British English Pronunciation](https://www.youtube.com/watch?v=T7SWETadMn0&t=52s "8 Tips for British English Pronunciation - YouTube") - Can and can't are easily distinguishable in British English
+1. [Pronouncing ‘-s’ endings](https://www.youtube.com/watch?v=SGBaNO3MjLY "Pronouncing ‘-s’ endings - Learners' Questions - YouTube") - unvoiced followed by unvoiced, /s/; voiced followed by voiced, /z/; /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/ followed by /ɪz/.
 
 ## Esperanto
 
