@@ -145,6 +145,7 @@
 CBT stands for Cognitive Behavioural Therapy.
 
 1. [Feeling good](https://www.youtube.com/watch?v=H1T5uMeYv9Q "Feeling good | David Burns | TEDxReno - YouTube") - A 18 minutes TED talk about CBT.
+1. [Flow, the secret to happiness](https://www.youtube.com/watch?v=fXIeFJCqsPs "Mihaly Csikszentmihalyi: Flow, the secret to happiness - YouTube") - A 19 minutes TED talk about Flow.
 1. [Woebot](https://woebot.io/ "Home | Woebot - Your charming robot friend who is here for you, 24/7") - A chatbot implementation of CBT.
 1. [心理學觀點的「幸運關鍵」](https://www.youtube.com/watch?v=_ZiEoH_Z5qk&feature=emb_title "心理學觀點的「幸運關鍵」：劉軒(Xuan Liu) at TEDxTaipei 2014 - YouTube") - A 20 minutes TED talk about self efficacy in Chinese.
 
