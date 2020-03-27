@@ -44,6 +44,7 @@
 
 1. [Android Unlock Pattern Generator](https://www.berkeleychurchill.com/software/android-pwgen/pwgen.html "Berkeley Churchill - Android Unlock Pattern Generator") - Use unique patterns for different device or app.
 1. [KPlaySearch](https://playsearch.kaki87.net/ "KPlaySearch | Advanced Google Play search") - Search APP without ADs.
+1. [Sleep as Android 💤 Sleep cycle smart alarm](https://play.google.com/store/apps/details?id=com.urbandroid.sleep&hl=en "Sleep as Android 💤 Sleep cycle smart alarm - Apps on Google Play") - Track your sleep quality with this app.
 
 ## Architecture
 
@@ -70,6 +71,7 @@
 ## English
 
 1. [8 Tips for British English Pronunciation](https://www.youtube.com/watch?v=T7SWETadMn0&t=52s "8 Tips for British English Pronunciation - YouTube") - Can and can't are easily distinguishable in British English
+1. [Nationalities](https://www.ef.com/wwen/english-resources/english-grammar/nationalities/ "Nationalities | English Grammar | EF") - Learn about all the irregular forms of English vocabulary about nationalities.
 1. [Pronouncing ‘-s’ endings](https://www.youtube.com/watch?v=SGBaNO3MjLY "Pronouncing ‘-s’ endings - Learners' Questions - YouTube") - unvoiced followed by unvoiced, /s/; voiced followed by voiced, /z/; /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/ followed by /ɪz/.
 
 ## Esperanto
@@ -92,7 +94,7 @@
 
 1. [當季好蔬果](https://www.twfood.cc/ "當季好蔬果") - Look up price of fruits and vegetables.
 1. [食品營養成分資料庫](https://consumer.fda.gov.tw/Food/TFND.aspx?nodeID=178&rand=1245043193 "食品營養成分資料庫(新版)_消費者專區") - Look up nutritions.
-1. [成份無調整鮮乳](https://www.plurk.com/p/ke2bhj "告老四 - [畜產] 河道上都是義美鮮乳什麼的消息。說真的，我沒喝過義美的，所以我對他們家的鮮奶不與置評。以下說說我推薦的成份無調整鮮乳。 - Plurk")
+1. [成份無調整鮮乳](https://www.plurk.com/p/ke2bhj "告老四 - [畜產] 河道上都是義美鮮乳什麼的消息。說真的，我沒喝過義美的，所以我對他們家的鮮奶不與置評。以下說說我推薦的成份無調整鮮乳。 - Plurk") - Understand milk in Taiwan.
 
 ## Generator
 
