@@ -170,6 +170,10 @@ CBT stands for Cognitive Behavioural Therapy.
 
 1. [Man is born free; and everywhere he is in chains.](https://en.wikiquote.org/wiki/The_Social_Contract "The Social Contract - Wikiquote") - There is a sentence after "Man is born free".
 
+## SEO
+
+1. [Infinite scroll search-friendly recommendations](https://webmasters.googleblog.com/2014/02/infinite-scroll-search-friendly.html "Official Google Webmaster Central Blog: Infinite scroll search-friendly recommendations") - Learn how to do infinite scroll right with demo.
+
 ## SSH
 
 1. [How to use KeePassXC with ssh-agent to secure private key access](https://blog.valouille.fr/post/2018-03-27-how-to-use-keepass-xc-with-ssh-agent/ "How to use KeePassXC with ssh-agent to secure private key access - VaLouille") - Let KeePassXC manage your ssh keys.
