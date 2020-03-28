@@ -194,6 +194,7 @@ CBT stands for Cognitive Behavioural Therapy.
 
 1. [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/ "Introduction · 97 Things Every Programmer Should Know") - Learn how to write good program from giants.
 1. [Eric Elliott](https://medium.com/@_ericelliott "Eric Elliott") - A great entry point for learning testing from Eric’s articles.
+1. [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae "How to Debug Any Problem - By") - Learn how systematically debug any problem.
 1. [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/ "Manifesto for Software Craftsmanship") - Toward a higher goal.
 1. [SE Radio](https://www.se-radio.net/ "Software Engineering Radio") - This podcast has been around for more than 10 years by the IEEE Computer Society.
 
