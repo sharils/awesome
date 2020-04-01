@@ -80,6 +80,7 @@
 ## Entrepreneur
 
 1. [Hacker News](https://news.ycombinator.com/best "Top Links | Hacker News") - News for entrepeneurs.
+1. [Rework](https://archive.org/details/rework0000frie "Rework : Fried, Jason : Free Download, Borrow, and Streaming : Internet Archive") - Learn how to build a successful team and products.
 
 ## Esperanto
 
