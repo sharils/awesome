@@ -12,6 +12,7 @@
 1. [Career](#career)
 1. [Design System](#design-system)
 1. [English](#english)
+1. [Entrepreneur](#entrepreneur)
 1. [Esperanto](#esperanto)
 1. [FP](#fp)
 1. [File Sharing](#file-sharing)
@@ -24,11 +25,10 @@
 1. [Life](#life)
 1. [MacOS](#macos)
 1. [Markdown](#markdown)
-1. [News](#news)
 1. [Problem Solving](#problem-solving)
 1. [Psychology](#psychology)
-1. [Remote Working](#remote-working)
 1. [Quote](#quote)
+1. [Remote Working](#remote-working)
 1. [SSH](#ssh)
 1. [Security](#security)
 1. [Software Engineering](#software-engineering)
@@ -75,6 +75,10 @@
 1. [Nationalities](https://www.ef.com/wwen/english-resources/english-grammar/nationalities/ "Nationalities | English Grammar | EF") - Learn about all the irregular forms of English vocabulary about nationalities.
 1. [Pronouncing ‘-ed’ endings](https://www.youtube.com/watch?v=I-nMqycHubU "Pronouncing ‘-ed’ endings - Learners' Questions - YouTube") - unvoiced followed by unvoiced, /t/; voiced followed by voiced, /d/; /t/, /d/ followed by /ɪd/.
 1. [Pronouncing ‘-s’ endings](https://www.youtube.com/watch?v=SGBaNO3MjLY "Pronouncing ‘-s’ endings - Learners' Questions - YouTube") - unvoiced followed by unvoiced, /s/; voiced followed by voiced, /z/; /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/ followed by /ɪz/.
+
+## Entrepreneur
+
+1. [Hacker News](https://news.ycombinator.com/best "Top Links | Hacker News") - News for entrepeneurs.
 
 ## Esperanto
 
@@ -146,10 +150,6 @@
 1. [Grip](https://github.com/joeyespo/grip "GitHub - joeyespo/grip: Preview GitHub Markdown files like Readme locally before committing them.") - Preview markdown at [localhost:6419](http://localhost:6419/).
 1. [How to write one new line in Bitbucket markdown?](https://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdown "How to write one new line in Bitbucket markdown?") - Add 2 trailing whitespaces to add a newline.
 
-## News
-
-1. [Hacker News](https://news.ycombinator.com/best "Top Links | Hacker News") - News for entrepeneurs.
-
 ## Problem Solving
 
 1. [House MD: Solving Complex IT Issues Using Differential Diagnosis Presentation](https://cdn.oreillystatic.com/en/assets/1/event/79/House%20MD_%20Solving%20Complex%20IT%20Issues%20Using%20Differential%20Diagnosis%20Presentation.pdf "House MD_ Solving Complex IT Issues Using Differential Diagnosis Presentation.pdf") - Learn differential diagnosis from Steve Bennett’s 154 page slide.
@@ -169,14 +169,14 @@ CBT stands for Cognitive Behavioural Therapy.
 
 1. [BrowserStack](https://www.browserstack.com/ "Most Reliable App & Cross Browser Testing Platform | BrowserStack") - You can still test Firefox and IE after free trial ends.
 
+## Quote
+
+1. [Man is born free; and everywhere he is in chains.](https://en.wikiquote.org/wiki/The_Social_Contract "The Social Contract - Wikiquote") - There is a sentence after "Man is born free".
+
 ## Remote Working
 
 1. [Doodle](https://doodle.com/en/ "Home | Doodle") - list available times and let attendees vote for which works for them efficiently.
 1. [World Time Buddy](https://www.worldtimebuddy.com/ "Time Converter and World Clock - Conversion at a Glance - Pick best time to schedule conference calls, webinars, online meetings and phone calls.") - Find out time at different locations around the world easily without creating an account.
-
-## Quote
-
-1. [Man is born free; and everywhere he is in chains.](https://en.wikiquote.org/wiki/The_Social_Contract "The Social Contract - Wikiquote") - There is a sentence after "Man is born free".
 
 ## SEO
 
