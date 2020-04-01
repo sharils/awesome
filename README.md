@@ -25,6 +25,7 @@
 1. [MacOS](#macos)
 1. [Markdown](#markdown)
 1. [News](#news)
+1. [Problem Solving](#problem-solving)
 1. [Psychology](#psychology)
 1. [Remote Working](#remote-working)
 1. [Quote](#quote)
@@ -149,6 +150,12 @@
 
 1. [Hacker News](https://news.ycombinator.com/best "Top Links | Hacker News") - News for entrepeneurs.
 
+## Problem Solving
+
+1. [House MD: Solving Complex IT Issues Using Differential Diagnosis Presentation](https://cdn.oreillystatic.com/en/assets/1/event/79/House%20MD_%20Solving%20Complex%20IT%20Issues%20Using%20Differential%20Diagnosis%20Presentation.pdf "House MD_ Solving Complex IT Issues Using Differential Diagnosis Presentation.pdf") - Learn differential diagnosis from Steve Bennett’s 154 page slide.
+1. [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae "How to Debug Any Problem - By") - Learn how systematically debug any problem.
+1. [You Know Who’s Smart? Friggin’ Doctors, Man.](https://blog.danslimmon.com/2012/07/20/you-know-whos-smart-friggin-doctors-man/ "You Know Who’s Smart? Friggin’ Doctors, Man. – Dan Slimmon") - Learn differential diagnosis and apply to DevOp jobs.
+
 ## Psychology
 
 CBT stands for Cognitive Behavioural Therapy.
@@ -195,7 +202,6 @@ CBT stands for Cognitive Behavioural Therapy.
 
 1. [97 Things Every Programmer Should Know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/en/ "Introduction · 97 Things Every Programmer Should Know") - Learn how to write good program from giants.
 1. [Eric Elliott](https://medium.com/@_ericelliott "Eric Elliott") - A great entry point for learning testing from Eric’s articles.
-1. [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae "How to Debug Any Problem - By") - Learn how systematically debug any problem.
 1. [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/ "Manifesto for Software Craftsmanship") - Toward a higher goal.
 1. [SE Radio](https://www.se-radio.net/ "Software Engineering Radio") - This podcast has been around for more than 10 years by the IEEE Computer Society.
 
