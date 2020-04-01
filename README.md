@@ -28,6 +28,7 @@
 1. [Problem Solving](#problem-solving)
 1. [Psychology](#psychology)
 1. [Quote](#quote)
+1. [Reading](#reading)
 1. [Remote Working](#remote-working)
 1. [SSH](#ssh)
 1. [Security](#security)
@@ -172,6 +173,10 @@ CBT stands for Cognitive Behavioural Therapy.
 ## Quote
 
 1. [Man is born free; and everywhere he is in chains.](https://en.wikiquote.org/wiki/The_Social_Contract "The Social Contract - Wikiquote") - There is a sentence after "Man is born free".
+
+## Reading
+
+1. [Borrowing From The Lending Library](https://help.archive.org/hc/en-us/articles/360016554912-Borrowing-From-The-Lending-Library-A-Basic-Guide "Borrowing From The Lending Library - A Basic Guide – Internet Archive Help Center") - The Internet Archive and participating libraries have selected digitized books from their collections that are available to be borrowed by one patron at a time, from anywhere in the world for free.
 
 ## Remote Working
 
