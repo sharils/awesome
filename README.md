@@ -18,6 +18,7 @@
 1. [File Sharing](#file-sharing)
 1. [Food](#food)
 1. [Generator](#generator)
+1. [Gesture](#gesture)
 1. [Git](#git)
 1. [Health](#health)
 1. [JavaScript](#javascript)
@@ -25,6 +26,7 @@
 1. [Life](#life)
 1. [MacOS](#macos)
 1. [Markdown](#markdown)
+1. [Package](#package)
 1. [Problem Solving](#problem-solving)
 1. [Psychology](#psychology)
 1. [Quote](#quote)
@@ -108,6 +110,12 @@
 
 1. [generator-awesome-list](https://github.com/dar5hak/generator-awesome-list "GitHub - dar5hak/generator-awesome-list: Yeoman generator for GitHub awesome lists") - This list uses `npx --package yo --package generator-awesome-list yo awesome-list` to generate the boilerplate.
 
+## Gesture
+
+1. [Asia finger-counting](https://en.wikipedia.org/wiki/Finger-counting#Western_world "Finger-counting - Wikipedia") - There is a 12 based finger counting method in Asia, it's commonly seen and used by traditional fortune tellers in TV programme.
+1. [Chinese number gestures](https://en.wikipedia.org/wiki/Chinese_number_gestures#Gallery "Chinese number gestures - Wikipedia") - From 1 to 5, Chinese number are the same as America and UK; the difference lies in 7 to 9; 7 and 8 in North China is different from South China and Taiwan; 9 in Taiwan is different from China.
+1. [finger-counting](https://en.wikipedia.org/wiki/Finger-counting#Western_world "Finger-counting - Wikipedia") - America and UK start counting with index finger; continential European start counting with thumbnail.
+
 ## Git
 
 1. [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/ "A successful Git branching model » nvie.com") - Most adopted industrial git workflow. Don't confuse this with the _gitworkflows_ comes with git. When people talk about git flow, it's usually this one.
@@ -151,6 +159,12 @@
 
 1. [Grip](https://github.com/joeyespo/grip "GitHub - joeyespo/grip: Preview GitHub Markdown files like Readme locally before committing them.") - Preview markdown at [localhost:6419](http://localhost:6419/).
 1. [How to write one new line in Bitbucket markdown?](https://stackoverflow.com/questions/22385334/how-to-write-one-new-line-in-bitbucket-markdown "How to write one new line in Bitbucket markdown?") - Add 2 trailing whitespaces to add a newline.
+
+## Package
+
+1. [Libraries.io](https://libraries.io/ "Libraries.io - The Open Source Discovery Service") - Search for package
+1. [npm trends](https://www.npmtrends.com/ "npm trends: Compare NPM package downloads") - Compare NPM package downloads
+1. [npms](https://npms.io/ "npms") - Check the score based on quality, maintenance and popularity for a package.
 
 ## Problem Solving
 
