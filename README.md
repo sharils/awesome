@@ -88,6 +88,7 @@
 
 1. [Esperantizing Your Name](http://esperanto-chicago.org/esperantizing-your-name/ "Esperantizing Your Name – La Esperanto-Societo de Ŝikago") - Learn how to convert a name to an Esperanto name.
 1. [Etimologia vortareto](https://web.archive.org/web/20111222020427/http://www.freeweb.hu:80/etymological/Esperanto.htm "Etimologia vortareto") - The only etymology dictionary for Esperanto words I can find so far.
+1. [Propaedeutic value of Esperanto](https://en.wikipedia.org/wiki/Propaedeutic_value_of_Esperanto "Propaedeutic value of Esperanto - Wikipedia") - Know how Esperanto helps learn other languages.
 
 ## FP
 
