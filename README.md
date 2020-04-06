@@ -10,6 +10,7 @@
 1. [Backend Development](#backend-development)
 1. [Calendar](#calendar)
 1. [Career](#career)
+1. [Design Pattern](#design-pattern)
 1. [Design System](#design-system)
 1. [English](#english)
 1. [Entrepreneur](#entrepreneur)
@@ -67,6 +68,10 @@
 ## Career
 
 1. [A Career Cold Start Algorithm](https://boz.com/articles/career-cold-start "A Career Cold Start Algorithm") - Steps to help you find out how you can be helpful in a new company in 30 minutes.
+
+## Design Pattern
+
+1. [Resumable Uploads](https://developers.google.com/youtube/v3/guides/using_resumable_upload_protocol "Resumable Uploads  |  YouTube Data API  |  Google Developers") - Upload blob with meta data in RESTful.
 
 ## Design System
 
@@ -217,6 +222,7 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [PASETO](https://paseto.io/ "PASETO") - Use this instead of JWT.
 1. [Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium](https://medium.com/@mpreziuso/password-hashing-pbkdf2-scrypt-bcrypt-and-argon2-e25aaf41598e "Password Hashing: Scrypt, Bcrypt and ARGON2 - Michele Preziuso - Medium") - January, 2019 recommendation, use Argon2id.
 1. [Password Strength](https://xkcd.com/936/ "xkcd: Password Strength") - Start using [diceware](https://en.wikipedia.org/wiki/Diceware "Diceware - Wikipedia") now!
+1. [Private by Design](https://hacks.mozilla.org/2018/11/firefox-sync-privacy/ "Private by Design: How we built Firefox Sync - Mozilla Hacks - the Web developer blog") - Learn how to avoid receiving password in the backend.
 1. [Security Now! Podcast](https://www.grc.com/SecurityNow.htm "GRC | Security Now! Episode Archive") - This podcast has been around for more than 10 years. Many early episodes are still relevant today.
 1. [Time-based One-time Password algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm "Time-based One-time Password algorithm - Wikipedia") - This is the fundation of modern 2FA.
 1. [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
