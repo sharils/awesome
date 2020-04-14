@@ -77,6 +77,7 @@
 
 ## Design Pattern
 
+1. [Pagination](https://graphql.org/learn/pagination/ "Pagination | GraphQL") - Different pagination design to adopt.
 1. [Resumable Uploads](https://developers.google.com/youtube/v3/guides/using_resumable_upload_protocol "Resumable Uploads  |  YouTube Data API  |  Google Developers") - Upload blob with meta data in RESTful.
 
 ## Design System
