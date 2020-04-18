@@ -31,6 +31,7 @@
 1. [Markdown](#markdown)
 1. [Package](#package)
 1. [Problem Solving](#problem-solving)
+1. [Project Management](#project-management)
 1. [Psychology](#psychology)
 1. [Quote](#quote)
 1. [Reading](#reading)
@@ -190,6 +191,10 @@
 1. [House MD: Solving Complex IT Issues Using Differential Diagnosis Presentation](https://cdn.oreillystatic.com/en/assets/1/event/79/House%20MD_%20Solving%20Complex%20IT%20Issues%20Using%20Differential%20Diagnosis%20Presentation.pdf "House MD_ Solving Complex IT Issues Using Differential Diagnosis Presentation.pdf") - Learn differential diagnosis from Steve Bennett’s 154 page slide.
 1. [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae "How to Debug Any Problem - By") - Learn how systematically debug any problem.
 1. [You Know Who’s Smart? Friggin’ Doctors, Man.](https://blog.danslimmon.com/2012/07/20/you-know-whos-smart-friggin-doctors-man/ "You Know Who’s Smart? Friggin’ Doctors, Man. – Dan Slimmon") - Learn differential diagnosis and apply to DevOp jobs.
+
+## Project Management
+
+1. [The project triangle](https://www.youtube.com/watch?v=6ZGs0X920gU&list=PLsdqgY6s4nyZF6bQONpCsR8rkCEEXiCMA&index=2 "The project triangle - YouTube") - Learn project triangle from a 4:56 video.
 
 ## Psychology
 
