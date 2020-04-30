@@ -250,6 +250,7 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [Eric Elliott](https://medium.com/@_ericelliott "Eric Elliott") - A great entry point for learning testing from Eric’s articles.
 1. [Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/ "Manifesto for Software Craftsmanship") - Toward a higher goal.
 1. [SE Radio](https://www.se-radio.net/ "Software Engineering Radio") - This podcast has been around for more than 10 years by the IEEE Computer Society.
+1. [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/ "Things You Should Never Do, Part I – Joel on Software") - Rewrite the code from scratch is the thing you should never do.
 
 ## Time Management
 
