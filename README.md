@@ -195,6 +195,7 @@
 ## Project Management
 
 1. [The project triangle](https://www.youtube.com/watch?v=6ZGs0X920gU&list=PLsdqgY6s4nyZF6bQONpCsR8rkCEEXiCMA&index=2 "The project triangle - YouTube") - Learn project triangle from a 4:56 video.
+1. [The Teeth](https://kellysutton.com/2018/07/20/the-teeth.html#annotations:tTwVIIrfEeql9Lcb-_Cj2Q "The Teeth") - Incrementally change the product in place over blow the thing up and rewrite it.
 
 ## Psychology
 
