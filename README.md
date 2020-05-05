@@ -37,6 +37,7 @@
 1. [Reading](#reading)
 1. [Remote Working](#remote-working)
 1. [SSH](#ssh)
+1. [Salary](#salary)
 1. [Security](#security)
 1. [Software Engineering](#software-engineering)
 1. [Time Management](#time-management)
@@ -231,6 +232,10 @@ CBT stands for Cognitive Behavioural Therapy.
 
 1. [How to use KeePassXC with ssh-agent to secure private key access](https://blog.valouille.fr/post/2018-03-27-how-to-use-keepass-xc-with-ssh-agent/ "How to use KeePassXC with ssh-agent to secure private key access - VaLouille") - Let KeePassXC manage your ssh keys.
 1. [What can I do when my SSH session is stuck?](https://apple.stackexchange.com/questions/35524/what-can-i-do-when-my-ssh-session-is-stuck "What can I do when my SSH session is stuck? - Ask Different") - Type `ENTER`, `~`, `.` to terminate a stuck connection.
+
+## Salary
+
+1. [Salary Negotiation](https://www.kalzumeus.com/2012/01/23/salary-negotiation/ "Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software") - How to negotiate salary as an engineer.
 
 ## Security
 
