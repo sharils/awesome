@@ -89,6 +89,7 @@
 ## English
 
 1. [8 Tips for British English Pronunciation](https://www.youtube.com/watch?v=T7SWETadMn0&t=52s "8 Tips for British English Pronunciation - YouTube") - Can and can't are easily distinguishable in British English
+1. [Consonants and Vowels](https://tfcs.baruch.cuny.edu/consonants-vowels/#item1 "Consonants and Vowels") - Fix your pronounciation.
 1. [Nationalities](https://www.ef.com/wwen/english-resources/english-grammar/nationalities/ "Nationalities | English Grammar | EF") - Learn about all the irregular forms of English vocabulary about nationalities.
 1. [Pronouncing ‘-ed’ endings](https://www.youtube.com/watch?v=I-nMqycHubU "Pronouncing ‘-ed’ endings - Learners' Questions - YouTube") - unvoiced followed by unvoiced, /t/; voiced followed by voiced, /d/; /t/, /d/ followed by /ɪd/.
 1. [Pronouncing ‘-s’ endings](https://www.youtube.com/watch?v=SGBaNO3MjLY "Pronouncing ‘-s’ endings - Learners' Questions - YouTube") - unvoiced followed by unvoiced, /s/; voiced followed by voiced, /z/; /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/ followed by /ɪz/.
