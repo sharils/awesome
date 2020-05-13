@@ -11,6 +11,7 @@
 1. [Calendar](#calendar)
 1. [Career](#career)
 1. [Cat](#cat)
+1. [Communication](#communication)
 1. [Design Pattern](#design-pattern)
 1. [Design System](#design-system)
 1. [English](#english)
@@ -76,6 +77,10 @@
 ## Cat
 
 1. [貓咪國際級醫療在台灣](https://www.hotpets.com.tw/2020_cat_friendly_clinic_in_taiwan/ "貓咪國際級醫療在台灣 | HotPets 哈寵誌") - International grade of vet in Taiwan.
+
+## Communication
+
+1. [唐鳳擅長的焦點討論法，網路留言回應，應答技巧的典範](https://medium.com/y-pointer/orid-a40f32fca3d7 "唐鳳擅長的焦點討論法，網路留言回應，應答技巧的典範 - 高效能任性 - Medium") - Learn ORID.
 
 ## Design Pattern
 
