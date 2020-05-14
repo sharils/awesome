@@ -15,6 +15,7 @@
 1. [Computer Science](#computer-science)
 1. [Design Pattern](#design-pattern)
 1. [Design System](#design-system)
+1. [DevOp](#devop)
 1. [English](#english)
 1. [Entrepreneur](#entrepreneur)
 1. [Esperanto](#esperanto)
@@ -96,6 +97,10 @@
 ## Design System
 
 1. [Design System](https://drive.google.com/file/d/1atuAFy3nz24bW7iw-qpZ8fN3ahytUXAv/edit?fbclid=IwAR0z0FHrfmZPHXTpFaqv-qUMWb9qqVM8WMV6yI9qtKhxp743_tMGeUMJR3U "design_system_20191221_jigsawye.pdf - Google Drive") - Introduction to Design System in _Chinese_.
+
+## DevOp
+
+1. [Introduction to Datadog](https://learn.datadoghq.com/enrol/index.php?id=18 "Datadog Intro") - Learn datadog with exercise.
 
 ## English
 
