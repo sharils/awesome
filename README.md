@@ -86,6 +86,7 @@
 ## Computer Science
 
 1. [Base 32](https://www.crockford.com/base32.html "Base 32") - Brillant way to encode characters without confusion.
+1. [ulid/spec](https://github.com/ulid/spec "GitHub - ulid/spec: The canonical spec for ulid") - Consider this when considering UUID.
 
 ## Design Pattern
 
