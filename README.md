@@ -12,6 +12,7 @@
 1. [Career](#career)
 1. [Cat](#cat)
 1. [Communication](#communication)
+1. [Computer Science](#computer-science)
 1. [Design Pattern](#design-pattern)
 1. [Design System](#design-system)
 1. [English](#english)
@@ -81,6 +82,10 @@
 ## Communication
 
 1. [唐鳳擅長的焦點討論法，網路留言回應，應答技巧的典範](https://medium.com/y-pointer/orid-a40f32fca3d7 "唐鳳擅長的焦點討論法，網路留言回應，應答技巧的典範 - 高效能任性 - Medium") - Learn ORID.
+
+## Computer Science
+
+1. [Base 32](https://www.crockford.com/base32.html "Base 32") - Brillant way to encode characters without confusion.
 
 ## Design Pattern
 
