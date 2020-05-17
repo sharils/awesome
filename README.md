@@ -263,6 +263,7 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [Password Strength](https://xkcd.com/936/ "xkcd: Password Strength") - Start using [diceware](https://en.wikipedia.org/wiki/Diceware "Diceware - Wikipedia") now!
 1. [Private by Design](https://hacks.mozilla.org/2018/11/firefox-sync-privacy/ "Private by Design: How we built Firefox Sync - Mozilla Hacks - the Web developer blog") - Learn how to avoid receiving password in the backend.
 1. [Security Now! Podcast](https://www.grc.com/SecurityNow.htm "GRC | Security Now! Episode Archive") - This podcast has been around for more than 10 years. Many early episodes are still relevant today.
+1. [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/ "Stop using JWT for sessions - joepie91's Ramblings") - See the **So... what is JWT good for, then?** section.
 1. [Time-based One-time Password algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm "Time-based One-time Password algorithm - Wikipedia") - This is the fundation of modern 2FA.
 1. [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
 
