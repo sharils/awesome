@@ -185,6 +185,7 @@
 ## MacOS
 
 1. [Apostrophes and quotation marks](https://www.presentationzen.com/presentationzen/2009/08/apostrophes-and-quotation-marks.html "Presentation Zen: Apostrophes and quotation marks") - Type `⌥` + `⇧` + `]` for `’` to avoid escaping `'` (also using punctuation correctly).
+1. [Enable Translucent Dock Icons](https://osxdaily.com/2010/06/22/make-hidden-application-icons-translucent-in-the-dock/ "Enable Translucent Dock Icons") - Run `defaults write com.apple.Dock showhidden -bool YES; killall Dock`
 1. [Install a specific version of a formula with homebrew](https://zoltanaltfatter.com/2017/09/07/Install-a-specific-version-of-formula-with-homebrew/ "Install a specific version of a formula with homebrew – Zoltan Altfatter – Software Engineer") - Use different versions of Elixir, Erlang, Lua, with just homebrew!
 1. [Is there a sort option for Launchpad?](https://discussions.apple.com/thread/250180547 "Is there a sort option for Launchpad? - Apple Community") - Run `defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock` to sort built-in apps in LaunchPad.
 1. Hold `⌥` then double tap on the trackpad and start dragging to select word by word
