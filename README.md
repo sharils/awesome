@@ -34,6 +34,7 @@
 1. [Markdown](#markdown)
 1. [Package](#package)
 1. [Problem Solving](#problem-solving)
+1. [Productivity](#productivity)
 1. [Project Management](#project-management)
 1. [Psychology](#psychology)
 1. [Quote](#quote)
@@ -188,10 +189,10 @@
 1. [Enable Translucent Dock Icons](https://osxdaily.com/2010/06/22/make-hidden-application-icons-translucent-in-the-dock/ "Enable Translucent Dock Icons") - Run `defaults write com.apple.Dock showhidden -bool YES; killall Dock`
 1. [Install a specific version of a formula with homebrew](https://zoltanaltfatter.com/2017/09/07/Install-a-specific-version-of-formula-with-homebrew/ "Install a specific version of a formula with homebrew – Zoltan Altfatter – Software Engineer") - Use different versions of Elixir, Erlang, Lua, with just homebrew!
 1. [Is there a sort option for Launchpad?](https://discussions.apple.com/thread/250180547 "Is there a sort option for Launchpad? - Apple Community") - Run `defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock` to sort built-in apps in LaunchPad.
-1. Hold `⌥` then double tap on the trackpad and start dragging to select word by word
-1. Triple tap on the trackpad and start dragging to select line by line
-1. Hold `⌘` and `⇧` then double tap to select a file path in the Terminal app
-1. Hold `⌘` then tap to open a URL in the Terminal app; also hold `fn` when mouse reporting is turned on.
+1. Select word by word - Hold `⌥` then double tap on the trackpad and start dragging to select word by word
+1. Select line by line - Triple tap on the trackpad and start dragging to select line by line
+1. Select a file path - Hold `⌘` and `⇧` then double tap to select a file path in the Terminal app
+1. Open a URL in terminal - Hold `⌘` then tap to open a URL in the Terminal app; also hold `fn` when mouse reporting is turned on.
 1. [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps "GitHub - serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.") - Open source MacOS apps.
 
 ## Markdown
@@ -210,6 +211,10 @@
 1. [House MD: Solving Complex IT Issues Using Differential Diagnosis Presentation](https://cdn.oreillystatic.com/en/assets/1/event/79/House%20MD_%20Solving%20Complex%20IT%20Issues%20Using%20Differential%20Diagnosis%20Presentation.pdf "House MD_ Solving Complex IT Issues Using Differential Diagnosis Presentation.pdf") - Learn differential diagnosis from Steve Bennett’s 154 page slide.
 1. [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae "How to Debug Any Problem - By") - Learn how systematically debug any problem.
 1. [You Know Who’s Smart? Friggin’ Doctors, Man.](https://blog.danslimmon.com/2012/07/20/you-know-whos-smart-friggin-doctors-man/ "You Know Who’s Smart? Friggin’ Doctors, Man. – Dan Slimmon") - Learn differential diagnosis and apply to DevOp jobs.
+
+## Productivity
+
+1. [Why you should work 4 hours a day, according to science](https://theweek.com/articles/696644/why-should-work-4-hours-day-according-science "Why you should work 4 hours a day, according to science") - 4 hours of focus the the best we can do each day.
 
 ## Project Management
 
@@ -267,7 +272,7 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/ "Stop using JWT for sessions - joepie91's Ramblings") - See the **So... what is JWT good for, then?** section.
 1. [Time-based One-time Password algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm "Time-based One-time Password algorithm - Wikipedia") - This is the fundation of modern 2FA.
 1. [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
-1. ``" #$%&+,/:;<=>?@[\]^`{|}`` in a password have to be URI encoded when used in a connection string.
+1. ``" #$%&+,/:;<=>?@[\]^`{|}`` - Those characters in a password have to be URI encoded when used in a connection string.
 
 ## Software Engineering
 
