@@ -219,6 +219,7 @@
 
 ## Productivity
 
+1. [The Pomodoro Technique (The Pomodoro)](http://baomee.info/pdf/technique/1.pdf "The Pomodoro Technique (The Pomodoro)") - Stay focus while not being blocked for too long.
 1. [Why you should work 4 hours a day, according to science](https://theweek.com/articles/696644/why-should-work-4-hours-day-according-science "Why you should work 4 hours a day, according to science") - 4 hours of focus the the best we can do each day.
 
 ## Project Management
