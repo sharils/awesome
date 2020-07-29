@@ -26,6 +26,7 @@
 1. [Gesture](#gesture)
 1. [Git](#git)
 1. [Health](#health)
+1. [Hiring](#hiring)
 1. [Industry](#industry)
 1. [JavaScript](#javascript)
 1. [Learning](#learning)
@@ -161,6 +162,10 @@
 1. [Blue light has a dark side](https://via.hypothes.is/https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side#annotations:group:__world__ "Blue light has a dark side - Harvard Health") - Understand how to minimise damage of blue light.
 1. [何時要靠腰？何時不要靠？](https://healthylives.tw/Article/pkNU7ZDNp9k.html "何時要靠腰？何時不要靠？醫師公布正確「坐法」改善耳鳴、眩暈、腸胃健康") - When to rest your waist on your chair and when not to.
 1. [怎麼坐才正確？](https://www.youtube.com/watch?v=phIIZH_HY3A "怎麼坐才正確？｜你不知道的冷姿勢【三個字SunGuts】 - YouTube") - How to sit right.
+
+## Hiring
+
+1. [Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem "Secretary problem - Wikipedia") - Guarantee `1/e` chance of finding the best among `n` candidates.
 
 ## Industry
 
