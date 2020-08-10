@@ -279,6 +279,7 @@ CBT stands for Cognitive Behavioural Therapy.
 1. [Time-based One-time Password algorithm](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm "Time-based One-time Password algorithm - Wikipedia") - This is the fundation of modern 2FA.
 1. [secrets.js-grempe](https://github.com/grempe/secrets.js "GitHub - grempe/secrets.js: Secret sharing for javascript") - A [secret sharing](https://en.wikipedia.org/wiki/Secret_sharing "Secret sharing - Wikipedia") library to split a secret into `n` shares.
 1. ``" #$%&+,/:;<=>?@[\]^`{|}`` - Those characters in a password have to be URI encoded when used in a connection string.
+1. ``! "$&'()*,:;<=>?[\]^`{|}`` - Those characters in a bash string has to be escaped.
 
 ## Software Engineering
 
