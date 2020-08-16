@@ -29,6 +29,7 @@
 1. [Hiring](#hiring)
 1. [Industry](#industry)
 1. [JavaScript](#javascript)
+1. [Leadership](#Leadership)
 1. [Learning](#learning)
 1. [Life](#life)
 1. [MacOS](#macos)
@@ -176,6 +177,10 @@
 1. [JavaScript Weekly](https://javascriptweekly.com/ "JavaScript Weekly") - Weekly news about JavaScript.
 1. [What does coalescing mean?](https://stackoverflow.com/questions/770186/null-coalescing-operator-what-does-coalescing-mean "c# - ?? Null Coalescing Operator --> What does coalescing mean? - Stack Overflow") - Understand what coalescing means.
 1. [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript") - Introduction to writing clean code in JavaScript.
+
+## Leadership
+
+1. [What we don't understand about trust](https://www.youtube.com/watch?v=1PNX6M_dVsk "Onora O'Neill: What we don't understand about trust - YouTube") - Competence, honesty and reliablity.
 
 ## Learning
 
