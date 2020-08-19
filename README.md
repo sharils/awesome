@@ -175,6 +175,7 @@
 ## JavaScript
 
 1. [JavaScript Weekly](https://javascriptweekly.com/ "JavaScript Weekly") - Weekly news about JavaScript.
+1. [Let's Debug a Node.js Application](https://blog.heroku.com/debug-node-applications "Let's Debug a Node.js Application") - Node.js debugging overview and some tools.
 1. [What does coalescing mean?](https://stackoverflow.com/questions/770186/null-coalescing-operator-what-does-coalescing-mean "c# - ?? Null Coalescing Operator --> What does coalescing mean? - Stack Overflow") - Understand what coalescing means.
 1. [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript") - Introduction to writing clean code in JavaScript.
 
