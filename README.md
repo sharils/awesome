@@ -85,6 +85,7 @@
 
 ## Communication
 
+1. [Radio discipline](https://en.wikipedia.org/wiki/Radiotelephony_procedure#Radio_discipline "Radiotelephony procedure - Wikipedia") - Learn how to communicate efficiently from radio users.
 1. [唐鳳擅長的焦點討論法，網路留言回應，應答技巧的典範](https://medium.com/y-pointer/orid-a40f32fca3d7 "唐鳳擅長的焦點討論法，網路留言回應，應答技巧的典範 - 高效能任性 - Medium") - Learn ORID.
 
 ## Computer Science
