@@ -29,6 +29,7 @@
 1. [Hiring](#hiring)
 1. [Industry](#industry)
 1. [JavaScript](#javascript)
+1. [Knowledge Management](#knowledge-management)
 1. [Leadership](#Leadership)
 1. [Learning](#learning)
 1. [Life](#life)
@@ -179,6 +180,10 @@
 1. [Let's Debug a Node.js Application](https://blog.heroku.com/debug-node-applications "Let's Debug a Node.js Application") - Node.js debugging overview and some tools.
 1. [What does coalescing mean?](https://stackoverflow.com/questions/770186/null-coalescing-operator-what-does-coalescing-mean "c# - ?? Null Coalescing Operator --> What does coalescing mean? - Stack Overflow") - Understand what coalescing means.
 1. [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript "GitHub - ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript") - Introduction to writing clean code in JavaScript.
+
+## Knowledge Management
+
+1. [THE ZETTELKASTEN MANIFESTO](https://www.youtube.com/watch?reload=9&v=c5Tst3-zcWI "THE ZETTELKASTEN MANIFESTO | What is a Zettelkasten? - YouTube") - Best introduction about Zettelkasten so far.
 
 ## Leadership
 
