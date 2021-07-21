@@ -64,7 +64,7 @@
 
 ## Architecture
 
-1. [MVC](http://web.archive.org/web/20121227035937/http://www.jdl.co.uk/briefings/mvc.html "MVC") - Grow insight about MVC as an architecure.
+1. [MVC](http://www.johndeacon.net/?page_id=263 "Model-View-Controller Architecture") - Grow insight about MVC as an architecure.
 
 ## Backend Development
 
