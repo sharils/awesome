@@ -28,6 +28,7 @@
 19. [Git](#git)
 20. [Health](#health)
 21. [Hiring](#hiring)
+22. [Image Processing](#image-processing)
 22. [Industry](#industry)
 23. [JavaScript](#javascript)
 24. [Knowledge Management](#knowledge-management)
@@ -175,6 +176,10 @@
 ## Hiring
 
 1. [Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem "Secretary problem - Wikipedia") - Guarantee `1/e` chance of finding the best among `n` candidates.
+
+## Image Processing
+
+1. [BIRME](https://www.birme.net/ "BIRME - Bulk Image Resizing Made Easy 2.0 (Online & Free)") - Auto focal point detection.
 
 ## Industry
 
